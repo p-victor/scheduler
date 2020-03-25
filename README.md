@@ -1,9 +1,7 @@
 # Interview Scheduler
 
-![alt text](docs/appointment_index.png "Appointment index")
-![alt text](docs/appointment_form.png "Appointment form")
-
-
+![alt text](https://github.com/p-victor/scheduler/blob/master/docs/appointment_index.png "Appointment index")
+![alt text](https://github.com/p-victor/scheduler/blob/master/docs/appointment_form.png "Appointment form")
 
 ## Setup
 
