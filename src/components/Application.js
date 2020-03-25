@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 
 import "components/Application.scss";
 
@@ -15,7 +15,7 @@ export default function Application(props) {
     setDay,
     bookInterview,
     cancelInterview
-  } = useApplicationData();  
+  } = useApplicationData();
 
   const interviewers = getInterviewersForDay(state, state.day);
 

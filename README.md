@@ -1,5 +1,10 @@
 # Interview Scheduler
 
+![alt text](docs/appointment_index.png "Appointment index")
+![alt text](docs/appointment_form.png "Appointment form")
+
+
+
 ## Setup
 
 Install dependencies with `npm install`.
